@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/css/main.15678c58.chunk.css",
+    "main.js": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/main.dfcca9e3.chunk.js",
+    "main.js.map": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/main.dfcca9e3.chunk.js.map",
+    "runtime-main.js": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/runtime-main.907f9f3f.js",
+    "runtime-main.js.map": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/runtime-main.907f9f3f.js.map",
+    "static/js/2.ab63d450.chunk.js": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/2.ab63d450.chunk.js",
+    "static/js/2.ab63d450.chunk.js.map": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/2.ab63d450.chunk.js.map",
+    "static/js/3.e6967cd8.chunk.js": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/3.e6967cd8.chunk.js",
+    "static/js/3.e6967cd8.chunk.js.map": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/3.e6967cd8.chunk.js.map",
+    "index.html": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/index.html",
+    "static/css/main.15678c58.chunk.css.map": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/css/main.15678c58.chunk.css.map",
+    "static/js/2.ab63d450.chunk.js.LICENSE.txt": "/htt[s://tyreljackson-L904.github.io/notes-frontend-app/static/js/2.ab63d450.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.907f9f3f.js",
+    "static/js/2.ab63d450.chunk.js",
+    "static/css/main.15678c58.chunk.css",
+    "static/js/main.dfcca9e3.chunk.js"
+  ]
+}
